@@ -1,0 +1,9 @@
+F:\workspace_as\Overseas2.0>c:
+
+C:\>cd Users\Administrator
+
+C:\Users\Administrator>cd .android
+
+C:\Users\Administrator\.android>keytool -list -v -keystore debug.keystore
+
+ÃÜÂëandroid
